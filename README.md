@@ -17,10 +17,13 @@ How to run:
 ======================
 
 Kirk Israel's Tutorial
+
 https://alienbill.com/2600/101/
 
 Stella Programmer's Guide
+
 https://alienbill.com/2600/101/docs/stella.html
 
 Stella Homebrew development page
+
 https://stella-emu.github.io/homebrew.html
